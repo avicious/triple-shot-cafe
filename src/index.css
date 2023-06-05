@@ -12,4 +12,8 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
+  color: #767f8b;
+  background-image: url(./assets/grey-pattern.jpg);
+  background-position: 0 0;
+  background-size: auto;
 }
