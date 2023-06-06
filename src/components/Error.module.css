@@ -1,0 +1,21 @@
+.error {
+    text-align: center;
+    padding: 120px 60px;
+}
+
+.error p {
+    font-size: 30px;
+    line-height: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+
+.error a {
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 50px;
+    background-color: #030c24;
+    color: #fefefe;
+}
