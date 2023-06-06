@@ -24,6 +24,7 @@
 .mobile {
     display: none;
     position: relative;
+    z-index: 100;
 }
 
 .mobile img {
