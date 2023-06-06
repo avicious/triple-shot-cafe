@@ -11,6 +11,7 @@ import bannerLeafLeft from "./banner-leaf-left.png";
 import Costa from "./Costa.png";
 import Guatemala from "./Guatemala.png";
 import Indonesia from "./Indonesia.png";
+import author from "./author.png";
 
 export {
   logo,
@@ -26,4 +27,5 @@ export {
   Costa,
   Guatemala,
   Indonesia,
+  author,
 };
