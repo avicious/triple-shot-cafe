@@ -6,7 +6,6 @@ import {
   HomePage,
   ProcessPage,
   StoryPage,
-  ContactPage,
 } from "./pages";
 
 const router = createBrowserRouter([
@@ -18,7 +17,6 @@ const router = createBrowserRouter([
       { path: "/", element: <HomePage /> },
       { path: "/process", element: <ProcessPage /> },
       { path: "/story", element: <StoryPage /> },
-      { path: "/contact", element: <ContactPage /> },
     ],
   },
 ]);

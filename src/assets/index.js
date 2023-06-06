@@ -11,7 +11,21 @@ import bannerLeafLeft from "./banner-leaf-left.png";
 import Costa from "./Costa.png";
 import Guatemala from "./Guatemala.png";
 import Indonesia from "./Indonesia.png";
-import author from "./author.png";
+
+import brewArrow from "./brew-arrow.png";
+import brew from "./brew.png";
+import cookie from "./cookie.png";
+import donut from "./donut.png";
+import grinder from "./grinder.png";
+import hearArrow from "./heat-arrow.png";
+import heatWater from "./heat-water.png";
+import kettleArrow from "./kettle-arrow.png";
+import kettle from "./kettle.png";
+import portafilter from "./portafilter.png";
+import pourArrow from "./pour-arrow.png";
+import pour from "./pour.png";
+import serveArrow from "./serve-arrow.png";
+import serve from "./serve.png";
 
 export {
   logo,
@@ -27,5 +41,18 @@ export {
   Costa,
   Guatemala,
   Indonesia,
-  author,
+  brewArrow,
+  brew,
+  cookie,
+  donut,
+  grinder,
+  hearArrow,
+  heatWater,
+  kettle,
+  kettleArrow,
+  portafilter,
+  pour,
+  pourArrow,
+  serve,
+  serveArrow,
 };

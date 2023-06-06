@@ -19,9 +19,6 @@ const Header = () => {
           <li>
             <NavLink to="/story">Our Story</NavLink>
           </li>
-          <li>
-            <NavLink to="/contact">Contact Us</NavLink>
-          </li>
         </ul>
 
         <div className={styles.mobile}>
@@ -39,9 +36,6 @@ const Header = () => {
             </li>
             <li>
               <NavLink to="/story">Our Story</NavLink>
-            </li>
-            <li>
-              <NavLink to="/contact">Contact Us</NavLink>
             </li>
           </ul>
         </div>

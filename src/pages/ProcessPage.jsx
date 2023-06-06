@@ -1,6 +1,8 @@
-const ProcessPage = () => {
-  return (
-    <div>ProcessPage</div>
-  )
-}
-export default ProcessPage
+import Process from "../components/Process";
+
+const ProcessPage = () => (
+  <>
+    <Process />
+  </>
+);
+export default ProcessPage;

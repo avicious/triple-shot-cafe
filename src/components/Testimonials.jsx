@@ -1,5 +1,4 @@
 import styles from "./Testimonials.module.css";
-import { author } from "../assets";
 
 const Testimonials = () => {
   return (
@@ -10,8 +9,7 @@ const Testimonials = () => {
         are friendly and knowledgeable about their craft. Highly recommend their
         cappuccinos."
       </p>
-      <p className={styles.author}>Catherine Lipschwitz</p>
-      <img src={author} alt="Catherine Lipschwitz" />
+      <p className={styles.author}>-Catherine Lipschwitz</p>
     </div>
   );
 };
