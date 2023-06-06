@@ -8,6 +8,9 @@ import bannerCup from "./banner-cup.png";
 import bannerDonut from "./banner-donut.png";
 import bannerLeafRight from "./banner-leaf-right.png";
 import bannerLeafLeft from "./banner-leaf-left.png";
+import Costa from "./Costa.png";
+import Guatemala from "./Guatemala.png";
+import Indonesia from "./Indonesia.png";
 
 export {
   logo,
@@ -20,4 +23,7 @@ export {
   bannerDonut,
   bannerLeafLeft,
   bannerLeafRight,
+  Costa,
+  Guatemala,
+  Indonesia,
 };
