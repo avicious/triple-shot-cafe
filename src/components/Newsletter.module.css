@@ -63,5 +63,7 @@
     .newsletter input[type="email"] {
     width: 80vw; 
     margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
 }
 }
