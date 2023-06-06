@@ -1,6 +1,5 @@
-const StoryPage = () => {
-  return (
-    <div>StoryPage</div>
-  )
-}
-export default StoryPage
+import Story from "../components/Story";
+
+const StoryPage = () => <Story />;
+
+export default StoryPage;

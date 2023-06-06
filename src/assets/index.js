@@ -27,6 +27,8 @@ import pour from "./pour.png";
 import serveArrow from "./serve-arrow.png";
 import serve from "./serve.png";
 
+import storyImg from "./story-img.png";
+
 export {
   logo,
   close,
@@ -55,4 +57,5 @@ export {
   pourArrow,
   serve,
   serveArrow,
+  storyImg,
 };
