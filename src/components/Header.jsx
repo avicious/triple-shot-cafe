@@ -7,7 +7,7 @@ const Header = () => {
   const [toggle, setToggle] = useState(false);
   return (
     <header className={styles.header}>
-      <img src={logo} alt="triple shots cafe" />
+      <NavLink to="/"><img src={logo} alt="triple shots cafe" /></NavLink>
       <nav>
         <ul className={styles.main}>
           <li>
