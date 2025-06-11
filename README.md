@@ -2,7 +2,7 @@
 ![triple-shot-cafe](https://github.com/user-attachments/assets/11439169-3c38-439f-be58-8ae08bad44e3)
 ## Live Demo
 
-🚀 **Check out the live version of this project here:** https://silver-spoon-ten.vercel.app/
+🚀 **Check out the live version of this project here:** https://triple-shot-cafe-three.vercel.app/
 
 ## Project Overview
 
